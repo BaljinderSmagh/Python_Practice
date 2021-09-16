@@ -6,4 +6,9 @@
   * Organize your code line with consistent indentation(standard is to use four space for each indent).
   * Try to separate the different sections of your code with blank lines.
   * Try to keep your lines to roughly 79 characters, which is the PEP 8 style guide's recommendation.
+  * Including Docstring to explain the functionality of any function in yor code.
+
+# How to make your code efficient?
+  * Reducing run time.
+  * Reducing space it occupies in memory.
   
