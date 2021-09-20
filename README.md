@@ -29,5 +29,7 @@
 # Conducting the Code Review
   * While you can above points when reviewing a code. To save time, you can use python code linter like pylint which can automatically check for coding standards
     and PEP 8 guidelines.
-Citations
+
+
+## Citations
 * Software Engineering Practice by Udacity
