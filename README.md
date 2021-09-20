@@ -21,7 +21,8 @@
   * Test driven Development where you write the test cases before writing main code.
 
 # Logging messages
-  * Debug: To talk about things happening in the program.
+  * Use normal capitalization for messages. 
+  * Debug: To talk about things happening (such as when,where and how this occurred) in the program.
   * Error: To record the errors occurring in the program.
   * Info: To record all the actions such as regularly scheduled operations.
 
