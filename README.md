@@ -12,3 +12,9 @@
   * Reducing run time.
   * Reducing space it occupies in memory.
   
+# Testing the Code
+  * Testing your code is important before deploying it to production.
+  * Unexpected data can break your given assumptions.
+  * You can write test cases to check your code.
+  * We can use unit Testing to avoid writing repeatable code for testing and it is isolated from the your main code.
+  * Pytest is a python library you can for unit testing. it will run all the tests even one of the test set fails.
