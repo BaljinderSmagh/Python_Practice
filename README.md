@@ -20,8 +20,10 @@
   * Pytest is a python library you can for unit testing. it will run all the tests even one of the test set fails.
   * Test driven Development where you write the test cases before writing main code.
 
-
-
+# Logging messages
+  * Debug: To talk about things happening in the program.
+  * Error: To record the errors occurring in the program.
+  * Info: To record all the actions such as regularly scheduled operations.
 
 Citations
 * Software Engineering Practice by Udacity
